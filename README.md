@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/szn4ffc4)
 # CSC4007 — Lab 2 Starter Kit (IMDB: Audit → Preprocess → Vectorize → Baseline ML)
 
 Starter repo cho sinh viên, giữ nhịp làm việc gần với Lab 1 nhưng chuyển trọng tâm sang:
